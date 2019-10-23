@@ -1,0 +1,12 @@
+nav {
+    height: 60px;
+    background: slategrey
+}
+
+@media (min-width: 400px) {
+    /* ! Styles to be applied !*/
+    nav {
+        background: purple;
+      
+    
+}
